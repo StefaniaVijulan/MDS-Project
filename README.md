@@ -24,4 +24,6 @@ Ne-am organizat cu ajutorul aplicației Trello. Pentru a vedea user stories, epi
 
 ![WhatsApp Image 2021-06-14 at 18 57 30](https://user-images.githubusercontent.com/59307782/121952178-91b64f80-cd64-11eb-82be-560866414fcd.jpeg)
 
+##UML DIAGRAM
+<img src=“C:\Users\Veronica\Downloads\Diagrama.png”/>
 
