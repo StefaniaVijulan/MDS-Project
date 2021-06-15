@@ -18,7 +18,7 @@ Avansăm în timp și perioada aniilor ‘80 ne întâmpină cu frumusețile sal
 
 Nu în ultimul rand, ajungem sa ne plimbam în prezent unde, cu ajutorul pelicanului, putem să vedem peisajele pe care lumea hawaiană le oferă. În cel de-al nouălea nivel, pelicanul trebuie să aibă grijă ca în călătoria pe care ne-o oferă sa nu ne ciocnim de totemele decoraționale. În următorul nivel, al doilea al acestei perioade, playerul ne conduce într-o pădure tropicala, însă de aceasta data călătoria se complica pentru ca trebuie sa avem grija sa ne ferim de ananasii proaspeți și să găsim drum spre ieșirea din acest labirint natural. În ultimul nivel, după 11 încercări pe care utilizatorul nostru le-a avut de trecut, acesta mai are o ultimă misiune de îndeplinit, aceea de a se bucura de adierea marii, însă trebuie sa fie grija la racii otravitori care nu pot sa fie omorați.
 
-## Backlog Creation:
+## Backlog Creation
 
 Ne-am organizat cu ajutorul aplicației Trello. Pentru a vedea user stories, epic stories și alte detalii de implementare puteți naviga [aici](https://trello.com/invite/b/BtzReJnX/4e1137e65ae12adfd75da4e7e0777462/proiect-mds)
 
